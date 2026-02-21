@@ -7,6 +7,12 @@ Signal Visualizer is a compact, portable signal analysis device featuring a prot
 
 </div>
 
+<div align="center">
+
+<img src="full_circuit_diagram.jpg" width="500">
+
+</div>
+
 # BLOCK DIAGRAM
 Overall, the design consist of a front end, which includes an attenuator accompanied by a signal
 conditioner. Then follows the ADC part which samples the analog input. The next part is the
